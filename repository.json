@@ -67,6 +67,14 @@
       "version": 104
     },
     {
+      "name": "武林中文网",
+      "url": "https://m.50zw.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
       "name": "玫瑰小说网",
       "url": "https://www.meiguixs.net",
       "category": 1,
@@ -80,7 +88,7 @@
       "category": 1,
       "rank": 0,
       "auth": false,
-      "version": 100
+      "version": 101
     },
     {
       "name": "采墨阁",
